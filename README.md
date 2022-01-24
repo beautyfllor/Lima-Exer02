@@ -1,6 +1,7 @@
-# Lima-Exer02
+# Exercício 2
 
-Segundo exercício realizado na aula de Linguagem de Marcação, com orientação do professor [Leonid]() no Senai Jandira.
+Segundo exercício realizado na aula de Linguagem de Marcação, com orientação do professor [Leonid](https://github.com/fernandoleonid) no [Senai Jandira](https://jandira.sp.senai.br/).
+
 Foram usadas as tags:
 * head
 * body
